@@ -11,11 +11,6 @@ Again, thanks for all of the effort and comments that have been made! Below are 
 
 Thanks for the detailed comments and appreciation for the work! Intuitively, \(L_C\) is the quotient language of \(L\) under the equivalence class \(C\). More precisely, it is stated as part of Theorem 2.3, but there it is written in the notation of \(L_E\) instead of \(L_C\). It is a bit confusing here. We will separate the definition from the theorem and make the notation clear in our next version.
 
-# Review B:
-> The question is how you see the overlap between your results and existing results.
-
-The response is stated above. But really, thanks for the reference to Ibarra (JACM 1978)! It is very important to us.
-
 # Review C:
 > The authors also say in the conclusion that the construction in Result B is strongly inspired by [Kozen and Smith 1997].
 
