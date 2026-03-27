@@ -1,6 +1,6 @@
 Dear Reviewers,
 
-Thanks to all for the comments and references! After checking the references provided by Reviewers B and C, we do believe there is some overlap between the results of Sections 3 and 5 and previous works. We will be looking into details of the reference provided by Reviewers.
+Thanks to all for the comments and references! After checking the references provided by Reviewers B and C, we do believe there is some overlap between the results of Sections 3 and 5 and previous works. We will look at the references provided by Reviewers.
 
 We are especially grateful for Reviewer A's detailed comments and review, and Reviewer B and C's detailed pointers to all kinds of references. The only clarification we want to make is that the result of Section 4 is strictly stronger than any similar statements made about rational languages. This is because, by definition, rationality admits the star axiom where \(X^* = 1 + X + X^2 + \cdots\), whereas we not only achieve the same decidability result under a weaker premise, but also show that the equational theory of such Kleene algebra is the same as its \(*\)-continuous version.
 
