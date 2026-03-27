@@ -14,4 +14,4 @@ Thanks for the detailed comments and appreciation for the work! Intuitively, \(L
 # Review C:
 > The authors also say in the conclusion that the construction in Result B is strongly inspired by [Kozen and Smith 1997].
 
-Ah. By strongly inspired, we only mean that we need to find the normal forms \(e_1\) and \(e_2\) such that \(L_C(e_1) = L_C(e_2)\) iff \(L(e_1) = L(e_2)\). The rest of the details of our proof are completely different from Kozen's.
+By strongly inspired, we only mean that we need to find the normal forms \(e_1\) and \(e_2\) such that \(L_C(e_1) = L_C(e_2)\) iff \(L(e_1) = L(e_2)\). The rest of the details of our proof are completely different from Kozen's.
